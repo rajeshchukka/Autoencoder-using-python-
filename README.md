@@ -18,5 +18,4 @@ Run the demo with python class_name.py in terminal
 
 ## Credits
 
-Credits go to the Keras team and Siraj Ravl . I've merely created it again and tested to get familier with myself.
-
+Credits go to the Keras team and and Siraj Raval. I've merely created a wrapper around the code and tested to get familiarize with myself.
