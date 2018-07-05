@@ -1,9 +1,6 @@
 # autoencoder_explained
 This is the code for "Autoencoder Explained" by Siraj Raval on Youtube 
 
-# Coding Challenge - Due Date- ~Thursday, Feb 1 2018 
-
-Create an autoencoder using Keras. Try to think of a cool use case. Bonus points for good documentation. Submit your github link in the comment section of this video. Good luck!
 
 ## Overview
 
@@ -21,4 +18,5 @@ Run the demo with python class_name.py in terminal
 
 ## Credits
 
-Credits go to the Keras team
+Credits go to the Keras team and Siraj Ravl . I've merely created it again and tested to get familier with myself.
+
